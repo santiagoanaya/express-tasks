@@ -72,11 +72,13 @@
   <script>
     document.getElementById('delete')
       .addEventListener('click', function(event) {
-        let response = confirm('Are you sure you want to delete?');
+        let response = confirm('Are you sure you want to delete?')
         if (!response) {
-          event.preventDefault();
+          event.preventDefault()
         }
-      });
+      })
   </script>
 
 </div>
+
+<% include partials/_footer %>

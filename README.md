@@ -1,5 +1,5 @@
 # express-tasks
-Task list to mark them as Done, Edit and Delete them. Using Node.js & Mongodb & Express.js
+Task list to mark them as Done, Edit and Delete them. Using Express.js & Mongodb & Node.js 
 
 Install dependencies with ```npm i```
 Start with ```npm run dev```
